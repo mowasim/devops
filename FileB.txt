@@ -1,1 +1,1 @@
-"this is fileB" file B change
+"this is fileB" file B change test file
