@@ -1,1 +1,2 @@
 "this is fileB" file B change test file
+test file
