@@ -1,1 +1,1 @@
-"this is fileA" New change
+FileA changes to test 
